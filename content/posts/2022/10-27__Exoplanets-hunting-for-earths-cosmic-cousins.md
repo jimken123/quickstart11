@@ -16,7 +16,7 @@ tags:
 draft: false
 ---
 
-In the vast tapestry of the cosmos, one of the most intriguing quests of modern astronomy is the search for exoplanets, distant celestial bodies that might bear a resemblance to our own Earth. This endeavor is driven by the tantalizing question: Could there be other habitable worlds out there? In this article, we embark on a journey to explore the captivating hunt for Earth's cosmic cousins.
+In the vast tapestry of the cosmos, one of the most intriguing quests of modern astronomy is the search for exoplanets, distantd there be other habitable worlds out there? In this article, we embark on a journey to explore the captivating hunt for Earth's cosmic cousins.
 
 ## The Exoplanet Revolution
 
